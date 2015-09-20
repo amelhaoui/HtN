@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-7862c9c0df0f7ff2f9fb9a56df225b13d1b1bbf5.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/libs/jna-platform-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/jna-platform-4.1.0-f730c0b35a89423f467577d0d1915643531eda07.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/libs/httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/httpclient-4.5.1-12839b669e4c1c746bb97efbc3814b08c510fc4d.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/libs/opencsv-3.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e88bd2818506573280599398f4198a04b2b2c8c">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/opencsv-3.5-3d268ebcc5b04b24b42a48470eca8a1564a08056.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-9bf34f3c454175d51293811d963b41790dfd37c1.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/classes-670bbad5c74352c1968fe47b14a8fb752b7c2b60.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/libs/commons-codec-1.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/commons-codec-1.9-acebdc7cd2d0f3f48c1ca8b73879a726788678ab.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/classes-3193cfa6818001fb6823653391aeef8c564c6253.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/2.1.6/e3d5f6ab2003e31f2cf5ea61b4731a21e9517935/androidasync-2.1.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3d5f6ab2003e31f2cf5ea61b4731a21e9517935">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/androidasync-2.1.6-fa1ece0126ae7e0c46edfb12308e882a3f5a3093.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/libs/httpmime-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="96823b9421ebb9f490dec837d9f96134e864e3a7">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/httpmime-4.5.1-83ec4305f93968d3b4debd8d0ea4f28b5a784ecf.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/libs/jna-4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/jna-4.1.0-8b6cd9838f2916a1a11f6e820734cfc4c8775de3.jar" />
+    </item>
+    <item
+        jar="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/libs/httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="/Users/Dar/AndroidStudioProjects/HackTheNorth/app/build/intermediates/pre-dexed/debug/httpcore-4.4.3-802b860cd886018b45fedda1488752d55f990189.jar" />
+    </item>
+
+</items>
