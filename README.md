@@ -1,1 +1,2 @@
 # Hack The North, Receipt Analyzer
+Built an Android application to automate budgeting for consumers. Users are able to take a picture of their receipts. The Android app, using Google's Tesseract OCR library, converts the image into useful text such as the store's name, and isolates product name and price. This data is then exported to an excel spreadsheet for easy budgeting and hassle-free tracking of receipts.
